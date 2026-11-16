@@ -48,12 +48,28 @@ juan-castro-api-colombia/
 │   └── sabores.js     (lógica de la página 2)
 └── README.md
 ```
+## Mockups de celular 
+<img width="295" height="578" alt="image" src="https://github.com/user-attachments/assets/c62ed124-8338-4d76-8610-0ac55123b03b" />
+<img width="296" height="583" alt="image" src="https://github.com/user-attachments/assets/83f60413-6e79-4a81-b565-eb81ead2196f" />
+<img width="301" height="579" alt="image" src="https://github.com/user-attachments/assets/139afd0d-82a7-416e-9b0c-f85e6fa48dff" />
+<img width="297" height="578" alt="image" src="https://github.com/user-attachments/assets/03dd3ff1-404b-4157-a798-b022723c99d3" />
+
+## Mockups de computador
+<img width="683" height="434" alt="image" src="https://github.com/user-attachments/assets/80aa099f-40a6-466d-837d-ee78a70ef404" />
+<img width="678" height="432" alt="image" src="https://github.com/user-attachments/assets/e3cbc5dd-124f-41ab-85c2-895086dafc63" />
+<img width="687" height="433" alt="image" src="https://github.com/user-attachments/assets/53720db7-83f2-4e0a-ab10-2e0687fd3266" />
+<img width="683" height="432" alt="image" src="https://github.com/user-attachments/assets/19a8d256-648c-4907-89fd-1e09701ed0a3" />
+
+
+
+
+
 
 ## Instrucciones de uso
 
 1. Clona o descarga el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/juan-castro-api-colombia.git
+   git clone https://github.com/castrorueda-afk/juan-castro-api-colombia.git
    ```
 2. Abre la carpeta del proyecto.
 3. Abre `index.html` en el navegador (doble clic) o usa la extensión **Live Server** de VS Code.
